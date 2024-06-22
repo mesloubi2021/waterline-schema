@@ -9,7 +9,7 @@
     }
   ],
   "dependencies": {
-    "lodash": "~3.10.0"
+    "lodash": "~4.17.21"
   },
   "devDependencies": {
     "mocha": "1.9.x"
